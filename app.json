@@ -17,7 +17,13 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.toutenm.cartui",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.toutenm.cartui",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
